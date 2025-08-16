@@ -197,12 +197,17 @@
     <ClCompile Include="src\Phobos.COM.cpp" />
     <ClCompile Include="src\Phobos.CRT.cpp" />
     <ClCompile Include="src\Phobos.Ext.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="src\Phobos.INI.cpp" />
     <ClCompile Include="src\Phobos.Save.cpp" />
     <ClCompile Include="src\Phobos.cpp" />
     <ClCompile Include="src\Utilities\ShapeTextPrinter.cpp" />
     <ClCompile Include="src\Utilities\SpawnerHelper.cpp" />
     <ClCompile Include="src\Utilities\Stream.cpp" />
+=======
+    <ClCompile Include="src\Pools\PoolHooks\Hooks.TechnoPool.cpp" />
+    <ClCompile Include="src\Pools\PoolMap.cpp" />
+>>>>>>> 10a98e34a6253b2bdad7d0c452313c02c191237f
     <ClCompile Include="src\Utilities\Constructs.cpp" />
     <ClCompile Include="src\Utilities\EnumFunctions.cpp" />
     <ClCompile Include="src\Utilities\GeneralUtils.cpp" />
@@ -301,6 +306,14 @@
     <ClInclude Include="src\Phobos.COM.h" />
     <ClInclude Include="src\Phobos.CRT.h" />
     <ClInclude Include="src\Phobos.version.h" />
+<<<<<<< HEAD
+=======
+    <ClInclude Include="src\Pools\EventPool.h" />
+    <ClInclude Include="src\Pools\Pool.h" />
+    <ClInclude Include="src\Pools\PoolIdentifier.h" />
+    <ClInclude Include="src\Pools\PoolMap.h" />
+    <ClInclude Include="src\Utilities\Concepts.h" />
+>>>>>>> 10a98e34a6253b2bdad7d0c452313c02c191237f
     <ClInclude Include="src\Utilities\Constructs.h" />
     <ClInclude Include="src\Utilities\Container.h" />
     <ClInclude Include="src\Utilities\Debug.h" />
